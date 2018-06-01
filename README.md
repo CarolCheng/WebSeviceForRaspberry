@@ -1,3 +1,8 @@
+# Prerequisite
+1. Install redis on Raspberry Pi <br />
+`$ sudo apt-get update` <br />
+`$ sudo apt-get install redis-server`
+
 # WebSeviceForDebain
 
 1. The list of TimeZone 
